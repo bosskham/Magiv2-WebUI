@@ -91,6 +91,6 @@ Please ensure that your contributions adhere to the project's coding standards a
 ## Known Issues
 
 - Ensure all required Python packages are installed.
-- If you encounter any issues, please check the [Issues](https://github.com/your_username/Magiv2-WebUI/issues) page for known problems and solutions.
+- If you encounter any issues, please check the [Issues](https://github.com/bosskham/Magiv2-WebUI/issues) page for known problems and solutions.
 
 ---
