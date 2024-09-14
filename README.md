@@ -13,7 +13,7 @@ Magiv2 WebUI is a web-based user interface for the Magiv2 model, providing funct
 
 ### Prerequisites
 
-1. **Python 3.7 to 3.10.10 **: Ensure you have Python installed.
+1. **Python 3.7 to 3.10.10: **Ensure you have Python installed. [Download here](https://www.python.org/downloads/).
 2. nVidia CUDA Toolkit 11.8: [Download here](https://developer.nvidia.com/cuda-11-8-0-download-archive?target_os=Windows&target_arch=x86_64).
 3. **Virtual Environment** (optional but recommended): Create an isolated environment for the project.
 
