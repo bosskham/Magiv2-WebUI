@@ -32,6 +32,7 @@ Magiv2 WebUI is a web-based user interface for the Magiv2 model, providing funct
    python -m venv venv
    # On Windows:
    venv\Scripts\activate
+   
    # On macOS/Linux:
    source venv/bin/activate
    ```
